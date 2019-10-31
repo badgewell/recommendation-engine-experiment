@@ -1,0 +1,4 @@
+apache-beam[gcp]==2.11.*
+pandas==0.24.*
+numpy==1.16.*
+gcsfs==0.2.*
