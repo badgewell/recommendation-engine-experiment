@@ -14,7 +14,7 @@
 
 ## Cons
 - Still young community.
-- Lacks alot of connectors and libaries especially on python. no elastic search connector for example.
+- Lacks alot of connectors and libaries especially on python. No elastic search connector for example.
 
 ## Setup
 > Please refer to the [setup guide](https://github.com/badgewell/recommendation-engine-experiment/blob/master/docs.md)
